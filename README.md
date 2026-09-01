@@ -11,12 +11,14 @@
 | [0189-rotate-array](https://github.com/Anishmondal08/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Anishmondal08/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anishmondal08/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Anishmondal08/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,11 +37,13 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anishmondal08/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anishmondal08/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,4 +52,5 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
