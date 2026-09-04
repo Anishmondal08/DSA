@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anishmondal08/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Anishmondal08/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anishmondal08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anishmondal08/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anishmondal08/DSA/tree/master/0283-move-zeroes) |
@@ -65,4 +66,8 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Anishmondal08/DSA/tree/master/0633-sum-of-square-numbers) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Anishmondal08/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
