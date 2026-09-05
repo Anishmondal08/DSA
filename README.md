@@ -29,6 +29,7 @@
 | [0189-rotate-array](https://github.com/Anishmondal08/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anishmondal08/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anishmondal08/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anishmondal08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Anishmondal08/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Anishmondal08/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Anishmondal08/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anishmondal08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
