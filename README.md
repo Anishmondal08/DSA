@@ -14,6 +14,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anishmondal08/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Anishmondal08/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anishmondal08/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Anishmondal08/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Anishmondal08/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anishmondal08/DSA/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anishmondal08/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Anishmondal08/DSA/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anishmondal08/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anishmondal08/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anishmondal08/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -106,4 +109,16 @@
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anishmondal08/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
