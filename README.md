@@ -23,6 +23,7 @@
 | [0905-sort-array-by-parity](https://github.com/Anishmondal08/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anishmondal08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anishmondal08/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Anishmondal08/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Anishmondal08/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anishmondal08/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Anishmondal08/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Bit Manipulation
 |  |
 | ------- |
