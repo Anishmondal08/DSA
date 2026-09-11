@@ -26,6 +26,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Anishmondal08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anishmondal08/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Anishmondal08/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0217-contains-duplicate](https://github.com/Anishmondal08/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +127,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
