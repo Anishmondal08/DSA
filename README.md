@@ -24,6 +24,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Anishmondal08/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/Anishmondal08/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anishmondal08/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anishmondal08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anishmondal08/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Anishmondal08/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -93,6 +94,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Anishmondal08/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anishmondal08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anishmondal08/DSA/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anishmondal08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Anishmondal08/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anishmondal08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anishmondal08/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anishmondal08/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
