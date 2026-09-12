@@ -104,6 +104,7 @@
 | [0344-reverse-string](https://github.com/Anishmondal08/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anishmondal08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Anishmondal08/DSA/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/Anishmondal08/DSA/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anishmondal08/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Anishmondal08/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
