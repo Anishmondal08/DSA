@@ -66,6 +66,7 @@
 | [0066-plus-one](https://github.com/Anishmondal08/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anishmondal08/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anishmondal08/DSA/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/Anishmondal08/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Anishmondal08/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Anishmondal08/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Anishmondal08/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Anishmondal08/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Anishmondal08/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anishmondal08/DSA/tree/master/1004-max-consecutive-ones-iii) |
