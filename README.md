@@ -24,6 +24,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Anishmondal08/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Anishmondal08/DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Anishmondal08/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anishmondal08/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anishmondal08/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -100,6 +101,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Anishmondal08/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/Anishmondal08/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anishmondal08/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
