@@ -75,6 +75,7 @@
 | [0036-valid-sudoku](https://github.com/Anishmondal08/DSA/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anishmondal08/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anishmondal08/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -84,6 +85,7 @@
 | [0088-merge-sorted-array](https://github.com/Anishmondal08/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anishmondal08/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anishmondal08/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Anishmondal08/DSA/tree/master/0905-sort-array-by-parity) |
@@ -111,6 +113,7 @@
 | [0014-longest-common-prefix](https://github.com/Anishmondal08/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anishmondal08/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Anishmondal08/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Anishmondal08/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anishmondal08/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anishmondal08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Anishmondal08/DSA/tree/master/0392-is-subsequence) |
