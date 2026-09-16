@@ -78,6 +78,7 @@
 | [0242-valid-anagram](https://github.com/Anishmondal08/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0771-jewels-and-stones](https://github.com/Anishmondal08/DSA/tree/master/0771-jewels-and-stones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -118,6 +119,7 @@
 | [0344-reverse-string](https://github.com/Anishmondal08/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anishmondal08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Anishmondal08/DSA/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/Anishmondal08/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Anishmondal08/DSA/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anishmondal08/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
