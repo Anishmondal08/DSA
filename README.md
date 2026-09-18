@@ -79,6 +79,7 @@
 | [0242-valid-anagram](https://github.com/Anishmondal08/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anishmondal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anishmondal08/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anishmondal08/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Anishmondal08/DSA/tree/master/0771-jewels-and-stones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -119,6 +120,7 @@
 | [0242-valid-anagram](https://github.com/Anishmondal08/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anishmondal08/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anishmondal08/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anishmondal08/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Anishmondal08/DSA/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anishmondal08/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Anishmondal08/DSA/tree/master/0709-to-lower-case) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anishmondal08/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -188,4 +191,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anishmondal08/DSA/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anishmondal08/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
