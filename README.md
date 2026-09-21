@@ -60,6 +60,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anishmondal08/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anishmondal08/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Anishmondal08/DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Anishmondal08/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0189-rotate-array](https://github.com/Anishmondal08/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anishmondal08/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Anishmondal08/DSA/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Anishmondal08/DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Anishmondal08/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
@@ -177,6 +179,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Anishmondal08/DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -211,4 +214,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anishmondal08/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anishmondal08/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
