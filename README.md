@@ -59,6 +59,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Anishmondal08/DSA/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anishmondal08/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anishmondal08/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Anishmondal08/DSA/tree/master/0392-is-subsequence) |
@@ -131,6 +132,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Anishmondal08/DSA/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Anishmondal08/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anishmondal08/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Anishmondal08/DSA/tree/master/0049-group-anagrams) |
@@ -183,6 +185,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Anishmondal08/DSA/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/Anishmondal08/DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
