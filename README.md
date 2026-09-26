@@ -186,6 +186,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anishmondal08/DSA/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Anishmondal08/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/Anishmondal08/DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -237,4 +238,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Anishmondal08/DSA/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Anishmondal08/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
