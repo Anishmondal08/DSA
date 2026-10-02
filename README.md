@@ -74,6 +74,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Anishmondal08/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Anishmondal08/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anishmondal08/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Anishmondal08/DSA/tree/master/0189-rotate-array) |
@@ -194,6 +195,7 @@
 | [0010-regular-expression-matching](https://github.com/Anishmondal08/DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Anishmondal08/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anishmondal08/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Anishmondal08/DSA/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/Anishmondal08/DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anishmondal08/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
