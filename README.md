@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/Anishmondal08/DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Anishmondal08/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anishmondal08/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Anishmondal08/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anishmondal08/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Anishmondal08/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Anishmondal08/DSA/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@
 | [0001-two-sum](https://github.com/Anishmondal08/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Anishmondal08/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anishmondal08/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Anishmondal08/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anishmondal08/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anishmondal08/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Anishmondal08/DSA/tree/master/0202-happy-number) |
